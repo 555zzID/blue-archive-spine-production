@@ -1,5 +1,6 @@
 # blue-archive-spine
-Based on [respectZ/blue-archive-spine](https://github.com/respectZ/blue-archive-spine)
+Based on [respectZ/blue-archive-spine](https://github.com/respectZ/blue-archive-spine).
+For a gist containing all filenames and the characters they match to, see [here.](https://gist.github.com/5786820b588cf026757d44e57c991e4f.git)
 
 ## Quick Start
 * Use this template
@@ -41,8 +42,6 @@ This repo uses UnityPy (instead of unitypack in upstream) to extract files.
 
 # Informations
 For viewing Blue Archive Spines.
-
-Have a look at [this branch](https://github.com/respectZ/blue-archive-spine/tree/resourceless) for resourceless.
 
 # Requirements
 - [decrunch](https://github.com/HearthSim/decrunch/)
